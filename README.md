@@ -38,3 +38,5 @@ Quienes no tengan cuenta de GitHub pueden trabajar en pareja, como se indica en 
 | `requirements.txt` | Bloque 6 | Dependencias antiguas para `pip-audit` |
 
 `.env.example` solo contiene valores de ejemplo. En el ejercicio de secretos, revisa las reglas de exclusión del repositorio.
+
+## Adding a comment for a PR test
